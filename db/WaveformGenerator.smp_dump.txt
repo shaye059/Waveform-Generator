@@ -1,0 +1,9 @@
+
+State Machine - |WAVEFORM_TOP|FSM_ctrl:L1|next_state
+Name next_state.COUNT next_state.SAW next_state.TRIANGLE next_state.SQUARE next_state.SINE next_state.IDLE 
+next_state.IDLE 0 0 0 0 0 0 
+next_state.SINE 0 0 0 0 1 1 
+next_state.SQUARE 0 0 0 1 0 1 
+next_state.TRIANGLE 0 0 1 0 0 1 
+next_state.SAW 0 1 0 0 0 1 
+next_state.COUNT 1 0 0 0 0 1 

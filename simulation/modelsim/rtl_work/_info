@@ -1,0 +1,215 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/simulation/modelsim
+Ecounter
+Z1 w1544061120
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/COUNTER.vhd
+Z6 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/COUNTER.vhd
+l0
+L6
+VTi;oP<f;H`1^P^QlQCVH13
+!s100 <KUz@77hGTNUnQnndk=nB3
+Z7 OV;C;10.3c;59
+31
+Z8 !s110 1554341379
+!i10b 1
+Z9 !s108 1554341379.561000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/COUNTER.vhd|
+Z11 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/COUNTER.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1
+Aarch
+R2
+R3
+R4
+DEx4 work 7 counter 0 22 Ti;oP<f;H`1^P^QlQCVH13
+l19
+L17
+VR1mE7WgdB489OU_?OUmQC1
+!s100 IdbWHnf<Vi@haiU<ho0343
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Edata_latch_logic
+Z14 w1544079692
+R2
+R3
+R4
+R0
+Z15 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/data_latch_logic (1).vhd
+Z16 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/data_latch_logic (1).vhd
+l0
+L5
+Vn=LlFG<RZH@GaC^UNB7W32
+!s100 J>b^NO@ke]2Q9UKE45H=B1
+R7
+31
+Z17 !s110 1554341381
+!i10b 1
+Z18 !s108 1554341381.060000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/data_latch_logic (1).vhd|
+Z20 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/data_latch_logic (1).vhd|
+!i113 1
+R12
+R13
+Adata_latch_logic_top
+R2
+R3
+R4
+DEx4 work 16 data_latch_logic 0 22 n=LlFG<RZH@GaC^UNB7W32
+l15
+L13
+Va2zV8>SiHc;W4=RX[nW9P2
+!s100 bZ1fMT]9zn33E8G4DHN>k2
+R7
+31
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Efsm_ctrl
+Z21 w1544109839
+R2
+R3
+R4
+R0
+Z22 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/FSM_ctrl.vhd
+Z23 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/FSM_ctrl.vhd
+l0
+L5
+VT0eb@T_Ti_QOc]^h;o>`;2
+!s100 <WgKzh:d98iai6_o=0HS;1
+R7
+31
+Z24 !s110 1554341380
+!i10b 1
+Z25 !s108 1554341380.560000
+Z26 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/FSM_ctrl.vhd|
+Z27 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/FSM_ctrl.vhd|
+!i113 1
+R12
+R13
+Afsm_ctrl_top
+R2
+R3
+R4
+DEx4 work 8 fsm_ctrl 0 22 T0eb@T_Ti_QOc]^h;o>`;2
+l34
+L26
+V@C`W15HViL[6NQHfeC7fz0
+!s100 3bT73W@zgeZEEa[]c[0Tl3
+R7
+31
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R12
+R13
+Ememory
+Z28 w1543969976
+R2
+R3
+R4
+R0
+Z29 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/MEMORY.vhd
+Z30 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/MEMORY.vhd
+l0
+L5
+VA?DOS8[z^<<zDGE_KBMD_0
+!s100 =RHDUm1Gz]GCZeaO8a2z=1
+R7
+31
+R24
+!i10b 1
+Z31 !s108 1554341380.067000
+Z32 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/MEMORY.vhd|
+Z33 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/MEMORY.vhd|
+!i113 1
+R12
+R13
+Aram
+R2
+R3
+R4
+DEx4 work 6 memory 0 22 A?DOS8[z^<<zDGE_KBMD_0
+l109
+L12
+V[LUf24M]IHL`Y<hfEk;mb0
+!s100 7oVbif]JU1=Q8eRO>dZW73
+R7
+31
+R24
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R12
+R13
+Ewaveform_top
+Z34 w1544103090
+R2
+R3
+R4
+R0
+Z35 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/waveform_top.vhd
+Z36 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/waveform_top.vhd
+l0
+L5
+V4ed9AgK>kG`L0Kf_C2@k=1
+!s100 ;G8Jc3W=`SEMEZ:mHd02]2
+R7
+31
+R8
+!i10b 1
+Z37 !s108 1554341379.068000
+Z38 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/waveform_top.vhd|
+Z39 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/waveform_top.vhd|
+!i113 1
+R12
+R13
+Atop_stru
+R2
+R3
+R4
+DEx4 work 12 waveform_top 0 22 4ed9AgK>kG`L0Kf_C2@k=1
+l71
+L18
+V@<3T;m833d[[WZ[mBN@QW2
+!s100 V7>4i<Do]fehzXD`;Bi<<2
+R7
+31
+R8
+!i10b 1
+R37
+R38
+R39
+!i113 1
+R12
+R13
