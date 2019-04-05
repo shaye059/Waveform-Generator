@@ -7,26 +7,26 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dC:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/simulation/modelsim
+Z0 dC:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/simulation/modelsim
 Ecounter
 Z1 w1544061120
 Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
 Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
 R0
-Z5 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/COUNTER.vhd
-Z6 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/COUNTER.vhd
+Z5 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/COUNTER.vhd
+Z6 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/COUNTER.vhd
 l0
 L6
 VTi;oP<f;H`1^P^QlQCVH13
 !s100 <KUz@77hGTNUnQnndk=nB3
 Z7 OV;C;10.3c;59
 31
-Z8 !s110 1554341379
+Z8 !s110 1554345421
 !i10b 1
-Z9 !s108 1554341379.561000
-Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/COUNTER.vhd|
-Z11 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/COUNTER.vhd|
+Z9 !s108 1554345421.606000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/COUNTER.vhd|
+Z11 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/COUNTER.vhd|
 !i113 1
 Z12 o-93 -work work
 Z13 tExplicit 1
@@ -55,19 +55,19 @@ R2
 R3
 R4
 R0
-Z15 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/data_latch_logic (1).vhd
-Z16 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/data_latch_logic (1).vhd
+Z15 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/data_latch_logic (1).vhd
+Z16 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/data_latch_logic (1).vhd
 l0
 L5
 Vn=LlFG<RZH@GaC^UNB7W32
 !s100 J>b^NO@ke]2Q9UKE45H=B1
 R7
 31
-Z17 !s110 1554341381
+Z17 !s110 1554345423
 !i10b 1
-Z18 !s108 1554341381.060000
-Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/data_latch_logic (1).vhd|
-Z20 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/data_latch_logic (1).vhd|
+Z18 !s108 1554345422.984000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/data_latch_logic (1).vhd|
+Z20 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/data_latch_logic (1).vhd|
 !i113 1
 R12
 R13
@@ -96,19 +96,19 @@ R2
 R3
 R4
 R0
-Z22 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/FSM_ctrl.vhd
-Z23 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/FSM_ctrl.vhd
+Z22 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/FSM_ctrl.vhd
+Z23 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/FSM_ctrl.vhd
 l0
 L5
 VT0eb@T_Ti_QOc]^h;o>`;2
 !s100 <WgKzh:d98iai6_o=0HS;1
 R7
 31
-Z24 !s110 1554341380
+Z24 !s110 1554345422
 !i10b 1
-Z25 !s108 1554341380.560000
-Z26 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/FSM_ctrl.vhd|
-Z27 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/FSM_ctrl.vhd|
+Z25 !s108 1554345422.545000
+Z26 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/FSM_ctrl.vhd|
+Z27 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/FSM_ctrl.vhd|
 !i113 1
 R12
 R13
@@ -137,8 +137,8 @@ R2
 R3
 R4
 R0
-Z29 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/MEMORY.vhd
-Z30 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/MEMORY.vhd
+Z29 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/MEMORY.vhd
+Z30 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/MEMORY.vhd
 l0
 L5
 VA?DOS8[z^<<zDGE_KBMD_0
@@ -147,9 +147,9 @@ R7
 31
 R24
 !i10b 1
-Z31 !s108 1554341380.067000
-Z32 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/MEMORY.vhd|
-Z33 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/MEMORY.vhd|
+Z31 !s108 1554345422.068000
+Z32 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/MEMORY.vhd|
+Z33 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/MEMORY.vhd|
 !i113 1
 R12
 R13
@@ -178,8 +178,8 @@ R2
 R3
 R4
 R0
-Z35 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/waveform_top.vhd
-Z36 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/waveform_top.vhd
+Z35 8C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/waveform_top.vhd
+Z36 FC:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/waveform_top.vhd
 l0
 L5
 V4ed9AgK>kG`L0Kf_C2@k=1
@@ -188,9 +188,9 @@ R7
 31
 R8
 !i10b 1
-Z37 !s108 1554341379.068000
-Z38 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/waveform_top.vhd|
-Z39 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform Generator/waveform_top.vhd|
+Z37 !s108 1554345421.116000
+Z38 !s90 -reportprogress|300|-93|-work|work|C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/waveform_top.vhd|
+Z39 !s107 C:/Users/spenc/Uni Third Year/CEG3155/Waveform-Generator/waveform_top.vhd|
 !i113 1
 R12
 R13
